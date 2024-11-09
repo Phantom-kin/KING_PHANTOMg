@@ -2,7 +2,7 @@
 <p align="center">  
 
 ***
-    <img alt="KING_PHANTOM" width="500" height="400" src="https://files.catbox.moe/5zxe1k.jpg.">
+
 <p align="center">
 <p align="center">
 <a href="https://github.com/Phantom-kin/King_Phantom"><img title="Author" src="https://img.shields.io/badge/King_Phantom-blue?style=for-the-badge&logo=github"></a>

@@ -1,50 +1,51 @@
-<h1 align="center"> THE PHANTOM MULTI DEVICE </h1>
-<p align="center">  
+# 👑 KING_PHANTOM WhatsApp Bot
 
-***
+![KING_PHANTOM Banner](https://files.catbox.moe/5zxe1k.jpg)
 
-<p align="center">
-<p align="center">
-<a href="https://github.com/Phantom-kin/King_Phantom"><img title="Author" src="https://img.shields.io/badge/King_Phantom-blue?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/boru-to?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Phantom-kin?label=Followers&style=social"></a>
-<a href="https://github.com/Phantom-kin/King_Phantom/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Phantom-kin/King_Phantom?&style=social"></a>
-<a href="https://github.com/Phantom-kin/King_Phantom/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Phantom-kin/King_Phantom?style=social"></a>
-<a href="https://github.com/Phantom-kin/King_Phantom/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Phantom-kin/King_Phantom?label=Watching&style=social"></a>
-  
-***
+[![Stars](https://img.shields.io/github/stars/your-username/King_Phantom?style=for-the-badge)](https://github.com/your-username/King_Phantom/stargazers)
+[![Forks](https://img.shields.io/github/forks/your-username/King_Phantom?style=for-the-badge)](https://github.com/your-username/King_Phantom/network/members)
+[![Issues](https://img.shields.io/github/issues/your-username/King_Phantom?style=for-the-badge)](https://github.com/your-username(King_Phantom)/issues
+[![License](https://img.shields.io/github/license/your-username/King_Phantom?style=for-the-badge)](LICENSE)
 
-#### SETUP 
+## 🔥 Introduction
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Phantom-kin/King_Phantom/fork) It***
+**KING_PHANTOM** is a multipurpose WhatsApp bot developed by[Phantom](https://Phantom_kin.kg), designed to automate and enhance your WhatsApp experience. It includes features like media downloads, group management, and more.
 
-***2.`Get Session ID` by [`SCANING QR`](https://king-phantom.onrender.com/wasiqr) Or [`PAIR CODE`](https://king-phantom.onrender.com/pair)***
+## 📸 Preview
 
-* - Copy The Session ID for it Will be needed during deployment*
+![Bot Preview](https://files.catbox.moe/5zxe1k.jpg)
 
-***
+## 🚀 Features
 
-#### DEPLOY TO HEROKU 
-**1. If You Don't Have An Account On Heroku**
-    <br>
-<p align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+- ✨ Multipurpose Commands: Media downloading, group management, fun commands, and more.
+- 🔒 Secure & Reliable: Built using Baileys (WhatsApp Web API).
+- 🛠️ Customizable: Easily modify the bot to fit your needs.
 
-**2. If You Have a Heroku Account**
-    <br>
-<p align="center"><a href="https://Phantom-kin.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+## 💬 Contact and Support
+
+- WhatsApp Channel: [follow]([https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L])
+- WhatsApp Group: [Join here]([https://chat.whatsapp.com/JDOdMYxJCSy1DsuPRmxenu])
+- Contact me directly: [WhatsApp Me](https://wa.me//+27748255848)
 
 
-***
+## FORK AND STAR
+<a href = "https://github.com/Phantom-kin/King_Phantom/fork">Fork</a>
 
 
-### DISCLAIMER 🛡 
-- Copying or modying this script is not allowed! For we shall not offer any help if any error occur!
 
-***
 
- **THANKS TO**
- 
- # STAR-KING0
- # HAKI
+## 💡 How to Get Session ID
+
+To use the bot, you'll need to generate a **Session ID** for WhatsApp authentication. Follow these steps:
+
+<a href = "https://king-phantom.onrender.com/pair">Get session id</a>
+
+## DEPLOY ON CODESPACE 
+<a href = "https://github.com/Phantom-kin/King_Phantom/codespaces/new">DEPLOY NOW</a>
+
+## MADE WITH STYLE 🤏😎BY KING PHANTOM 
+
+## ᴋɪɴɢ_ᴘʜᴀɴᴛᴏᴍ
+
+BASE BY:
+##KING HAKI
